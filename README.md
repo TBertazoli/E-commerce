@@ -42,5 +42,5 @@ GitHub repository link: https://github.com/TBertazoli/E-commerce
    
 email: tatianabertazoli@gmail.com
  
-Video link: https://drive.google.com/file/d/1YLSct7QRbxUNc385qIbStVsl6Ee1mZnE/view
+Video link: https://drive.google.com/file/d/13nybNLDAdE5dK3-dNyJwQI2sFpjtxeQp/view
 
